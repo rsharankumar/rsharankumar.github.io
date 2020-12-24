@@ -1,5 +1,0 @@
-# Hello Everyone! Welcome to my GitHub profile
-
-## I create content related to data science on YouTube and Medium to make it simple and accessible to everyone. All the scripts I use in my YouTube channel and Medium can be found here
-
-<a href="https://www.youtube.com/c/DataSciencewithSharan"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/youtube_xyqzlq.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@rsharankumar"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/Medium-512_fkmmqc.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rsharankumar/"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/Linkedin-Logo_zz8n0r.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/rsharankumar"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/image_ibyytk.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/rsharankumar"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/Kaggle_logo_qgcb8c.png" alt="drawing" width="75"/>
