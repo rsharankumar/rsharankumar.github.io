@@ -6,7 +6,7 @@ Credits:
 		Dimension by HTML5 UP
 		html5up.net | @ajlkn
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
 	Icons:
